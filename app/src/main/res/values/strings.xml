@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lost ark check compose</string>
+    <string name="home_app_bar">LostArk Homework Check</string>
+    <string name="home_more">Home More</string>
 </resources>
